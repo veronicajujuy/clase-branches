@@ -7,3 +7,5 @@ const Chau = (camada) => {
 };
 
 Hola("Camada2");
+
+Chau("Camada2");
