@@ -2,7 +2,7 @@ const Hola = (camada) => {
   console.log("hola" + camada);
 };
 
-const Chau = (camada) => {
+const Chaux2 = (camada) => {
   console.log("chau" + camada);
 };
 
