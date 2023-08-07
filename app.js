@@ -2,11 +2,9 @@ const Hola = (camada) => {
   console.log("hola" + camada);
 };
 
-const Chau = (camada) => {
+const ChauChau = (camada) => {
   console.log("chau" + camada);
 };
 
-Chau("Camada2");
 Hola("Camada2");
-
 Chau("Camada2");
